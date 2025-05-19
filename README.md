@@ -50,6 +50,8 @@ Here is a pre-start checklist:
 
 ---
 
-## Implementation
 
-** ADD YOUR IMPLEMENTATION DOCUMENTATION HERE **
+## Project Stages  
+1. [✅] GitHub setup
+1. [✅] Kanban Setup  
+
